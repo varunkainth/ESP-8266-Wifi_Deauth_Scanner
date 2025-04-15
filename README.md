@@ -62,7 +62,7 @@ This device is intended for **EDUCATIONAL PURPOSES ONLY**. Unauthorized deauthen
 
 1. Clone this repository:
    ```
-   git clone https://github.com/varunkainth/ESP-8266_Wifi_Deauth_Scanner.git
+   git clone https://github.com/varunkainth/ESP-8266-Wifi_Deauth_Scanner.git
    ```
 
 2. Open `DEAUTH_WIFI_SCAN_WITH_OLED.ino` in Arduino IDE
